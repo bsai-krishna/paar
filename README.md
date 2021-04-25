@@ -1,13 +1,4 @@
 
-<h1 align="center"> Paardarshak</h1>
-
-
-<p align="center">
-  <img width="100" height="100" src="https://i.ibb.co/85JrF8R/logo.png">
-</p>
-
-### [Winning Entry In EthIndia- Chainrunner](https://devfolio.co/blog/announcing-winners-of-chain-runner-hackathon/)
-### [Problem, Solution, Algorithm, Demo of Application | Just 10 min Video](https://www.youtube.com/watch?v=Zh_QQSMK-cY)
 
 ## Problem 🌈
 In conventional funds, 
@@ -115,12 +106,5 @@ Currently users pay in Matic Tokens,UPI can be integrated as a mode of payment. 
 
 Currently the last stakeholder of authority chains, just enters the result as text without giving any proof for it. We plan to add a feature where they can upload result receipt or photo through MoBit.
 
-## Any Query ?
- - Join us on [**discord**](https://discord.gg/sK2X6eY)
 
-## Team Members 🏁
 
-1. [**Abhishek Vispute**](https://github.com/abhishekvispute/)
-2. [**Viraj Gawde**](https://gihub.com/VirajRG/)
-3. [**Jatin Varlyani**](https://github.com/Jatin-8898/)
-4. [**Anuj Arora**](https://github.com/Arora-Anuj)
